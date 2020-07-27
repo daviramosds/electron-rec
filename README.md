@@ -1,1 +1,1 @@
-# electron-rec
+# Electron Rec
