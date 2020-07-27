@@ -1,0 +1,22 @@
+* {
+  text-align: center;
+  padding: 0 50px;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin: auto;
+  padding: 2rem;
+}
+
+#startBtn, #stopBtn {
+  display: none;
+}
+
+#videoSelectBtn {
+  margin: 10px;
+}
+
+.clear {
+  float: none;
+}
